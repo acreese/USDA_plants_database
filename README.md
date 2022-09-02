@@ -1,7 +1,6 @@
-# -USDA_NRCS_state_plant_database-
+# USDA NRCS State Plant List Database and Visualization
 
 a personal data engineering & visualization project
-
 
 ## Objective
 This repo is dedicated to practicing my data engineering and visualization with data of personal interest - here USDA native plant lists
